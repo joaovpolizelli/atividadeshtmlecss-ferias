@@ -1,0 +1,13 @@
+.tabela-alimentos{
+    border: 1px solid red;
+}
+.tabela-alimentos th{
+    border: 1px solid blue;
+    background: gray;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+}
+.tabela-alimentos td{
+    border: 1px solid green;
+}
